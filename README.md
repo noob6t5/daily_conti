@@ -4,7 +4,9 @@ This Python script automates random contributions to a GitHub repository. It mak
 
 # Insp
 
-i developed this to show the that Contributions can be done by any mean's & motives ........  **Don't judge ppl by graph**
+i developed this to show that Contributions can be done by any mean's & motives ........ 
+
+ **Don't judge ppl by graph**
 
  Recent incident some1 was mocking me by comparing his & mine open src contributions // in our workspace // . i checked his profile and it was kinda SUS..🫣
 
