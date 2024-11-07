@@ -1,6 +1,6 @@
 # Daily Contribution Bot
 
-This Python script automates random contributions to a GitHub repository. It makes random changes to files within the repository, simulating activity that could be beneficial for maintaining an active GitHub profile.
+This Python script automates random contributions to a GitHub repository. It makes random changes to files within the repository, simulating activity that could be beneficial for maintaining an active GitHub profile. 
 
 ## Features
 
@@ -39,9 +39,17 @@ git clone https://github.com/noob6t5/daily_conti
 
 cd daily_conti
 
-nano
+nano contri.py
  ```
- Make Changes to your repo,username ,PAT as showed in Image..
+Save and exit with `Ctrl+X then Y`  Make Changes to your repo,username ,PAT as showed in Image..
+![confi's](https://github.com/user-attachments/assets/d8904b9f-b415-4619-9d38-f11c9cac02b2)
+
+```
+python3 contri.py
+
+or python
+```
+![succ](https://github.com/user-attachments/assets/1234418a-c179-4151-8bda-de1caebbb78c)
 
  
 - **Automated Execution**: Host the script as a Telegram Bot or use a task scheduler (like cron jobs) to run it daily.
