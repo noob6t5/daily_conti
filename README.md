@@ -2,6 +2,12 @@
 
 This Python script automates random contributions to a GitHub repository. It makes random changes to files within the repository, simulating activity that could be beneficial for maintaining an active GitHub profile. 
 
+# Insp
+
+i developed this because some1 was mocking me by comparing his & mine contributions in our workspace . i checked his profile and it was kinda SUS..
+
+
+
 <img src="https://github.com/user-attachments/assets/0f706ddb-96f2-4e36-9e87-794634f0e094" alt="random" width="150" height="200">
 
 
